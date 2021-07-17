@@ -1,0 +1,24 @@
+{
+  "name": "type-challenges",
+  "version": "0.0.1",
+  "description": "My attempt at Type-Challenges",
+  "main": "index.js",
+  "scripts": {
+    "test": "..."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alensaito1/typechallenges.git"
+  },
+  "keywords": [
+    "ts",
+    "tsc",
+    "typescript"
+  ],
+  "author": "Alen Yohannan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alensaito1/typechallenges/issues"
+  },
+  "homepage": "https://github.com/alensaito1/typechallenges#readme"
+}
