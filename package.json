@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/alensaito1/typechallenges/issues"
   },
-  "homepage": "https://github.com/alensaito1/typechallenges#readme"
+  "homepage": "https://github.com/alensaito1/typechallenges#readme",
+  "dependencies": {
+    "@type-challenges/utils": "^0.1.1"
+  }
 }
